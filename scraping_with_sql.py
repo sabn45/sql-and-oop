@@ -47,7 +47,7 @@ class Email:
         host = "smtp.gmail.com"
         port = 465
 
-        password = "vlhyurbdlplienak"
+        password = "x"
         sender = "pythonlearning475@gmail.com"
         receiver = "pythonlearning475@gmail.com"
         context = ssl.create_default_context()
